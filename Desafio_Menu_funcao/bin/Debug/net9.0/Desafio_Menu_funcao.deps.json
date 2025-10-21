@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Desafio_Menu_funcao/1.0.0": {
+        "runtime": {
+          "Desafio_Menu_funcao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio_Menu_funcao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

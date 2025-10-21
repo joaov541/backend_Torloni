@@ -1,0 +1,4 @@
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX10\obj\Debug\net9.0\listaATV2_EX10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX10\obj\Debug\net9.0\listaATV2_EX10.AssemblyInfoInputs.cache
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX10\obj\Debug\net9.0\listaATV2_EX10.AssemblyInfo.cs
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX10\obj\Debug\net9.0\listaATV2_EX10.csproj.CoreCompileInputs.cache

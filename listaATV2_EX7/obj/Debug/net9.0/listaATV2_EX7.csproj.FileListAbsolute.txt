@@ -1,0 +1,14 @@
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\bin\Debug\net9.0\listaATV2_EX7.exe
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\bin\Debug\net9.0\listaATV2_EX7.deps.json
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\bin\Debug\net9.0\listaATV2_EX7.runtimeconfig.json
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\bin\Debug\net9.0\listaATV2_EX7.dll
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\bin\Debug\net9.0\listaATV2_EX7.pdb
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\listaATV2_EX7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\listaATV2_EX7.AssemblyInfoInputs.cache
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\listaATV2_EX7.AssemblyInfo.cs
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\listaATV2_EX7.csproj.CoreCompileInputs.cache
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\listaATV2_EX7.dll
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\refint\listaATV2_EX7.dll
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\listaATV2_EX7.pdb
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\listaATV2_EX7.genruntimeconfig.cache
+C:\Users\54198904880\Desktop\BackEnd_T\listaATV2_EX7\obj\Debug\net9.0\ref\listaATV2_EX7.dll

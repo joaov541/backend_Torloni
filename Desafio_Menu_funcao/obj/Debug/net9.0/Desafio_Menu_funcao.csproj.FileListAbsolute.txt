@@ -1,0 +1,14 @@
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\bin\Debug\net9.0\Desafio_Menu_funcao.exe
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\bin\Debug\net9.0\Desafio_Menu_funcao.deps.json
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\bin\Debug\net9.0\Desafio_Menu_funcao.runtimeconfig.json
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\bin\Debug\net9.0\Desafio_Menu_funcao.dll
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\bin\Debug\net9.0\Desafio_Menu_funcao.pdb
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\Desafio_Menu_funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\Desafio_Menu_funcao.AssemblyInfoInputs.cache
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\Desafio_Menu_funcao.AssemblyInfo.cs
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\Desafio_Menu_funcao.csproj.CoreCompileInputs.cache
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\Desafio_Menu_funcao.dll
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\refint\Desafio_Menu_funcao.dll
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\Desafio_Menu_funcao.pdb
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\Desafio_Menu_funcao.genruntimeconfig.cache
+C:\Users\54198904880\Desktop\BackEnd_T\Desafio_Menu_funcao\obj\Debug\net9.0\ref\Desafio_Menu_funcao.dll
