@@ -23,7 +23,7 @@ do
     Console.WriteLine("");
     Console.WriteLine("Digite o exercicio que deseja realizar:");
 
-    if (int.TryParse(Console.ReadLine(), out opcao))
+    if (!int.TryParse(Console.ReadLine(), out opcao))
     {
         Console.WriteLine("Numero invalido");
         continue;
@@ -71,139 +71,163 @@ do
  void Exercicio1()
 {
     Console.WriteLine("Realizando o exercício 1...");
-    double salario = 0.0, gasto = 0.0;
+    Console.WriteLine("Digite seu salário");
+double salario = double.Parse(Console.ReadLine());
 
-    Console.WriteLine("Informe o salário recebido");
-    salario = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite seu Gasto");
+double gasto = double.Parse(Console.ReadLine());
 
-    Console.WriteLine("Informe o total gasto");
-    gasto = double.Parse(Console.ReadLine());
+if (gasto <= salario)
+{
+    Console.WriteLine("Gastos dentro do orçamento");
+}
 
-    if (salario > gasto)
-    {
-        Console.WriteLine("Gastos dentro do orçamento");
-    }
-    else
-    {
-        Console.WriteLine("Orçamento estourado");
-    }
+else
+{
+    Console.WriteLine("Orçamento estourado");
+}
 }
 
 void Exercicio2()
 {
-    Console.WriteLine("Realizando o exercício 2...");
     int time1, time2;
 
-    Console.Write("Gols do time 1: ");
-    time1 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Realizando o exercício 2...");
+    Console.WriteLine("Digite a pontuação do time 1");
+time1 = int.Parse(Console.ReadLine());
 
-    Console.Write("Gols do time 2: ");
-    time2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite a pontuação do time 2");
+time2 = int.Parse(Console.ReadLine());
 
-    if (time1 > time2)
-        Console.WriteLine("Time 1 venceu!");
-    else if (time2 > time1)
-        Console.WriteLine("Time 2 venceu!");
-    else
-        Console.WriteLine("Empate!");
+
+if (time1 > time2)
+{
+    Console.WriteLine("Vitória do time 1");
+}
+
+else if (time1 < time2)
+{
+    Console.WriteLine("Vitória do time 2");
+}
+
+else
+{
+     Console.WriteLine("O jogo terminou empatado");
+}
 }
 
  void Exercicio3()
 {
-    Console.WriteLine("Realizando o exercício 3...");
     double lado1, lado2, lado3;
 
-    Console.WriteLine("Digite o primeiro lado do triângulo:");
-    lado1 = double.Parse(Console.ReadLine());
+    Console.WriteLine("Realizando o exercício 3...");
+    Console.WriteLine("Digite a medida do primeiro lado");
+lado1 = double.Parse(Console.ReadLine());
 
-    Console.WriteLine("Digite o segundo lado do triângulo:");
-    lado2 = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite a medida do segundo lado");
+lado2 = double.Parse(Console.ReadLine());
 
-    Console.WriteLine("Digite o terceiro lado do triângulo:");
-    lado3 = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite a medida do terceiro lado");
+lado3 = double.Parse(Console.ReadLine());
 
-    if ((lado1 < lado2 + lado3) && (lado2 < lado1 + lado3) && (lado3 < lado1 + lado2))
-    {
-        if (lado1 == lado2 && lado2 == lado3)
-        {
-            Console.WriteLine("Triângulo Equilátero");
-        }
-        else if (lado1 == lado2 || lado1 == lado3 || lado2 == lado3)
-        {
-            Console.WriteLine("Triângulo Isósceles");
-        }
-        else
-        {
-            Console.WriteLine("Triângulo Escaleno");
-        }
-    }
-    else
-    {
-        Console.WriteLine("As medidas informadas não formam um triângulo.");
-    }
+
+if (lado1 == lado2 && lado2 == lado3)
+{
+    Console.WriteLine("Todos os lados são iguais, portanto o Triângulo é EQUILÁTERO");
+}
+
+else if (lado1 == lado2 || lado1 == lado3 || lado2 == lado3)
+{
+    Console.WriteLine("Temos dois lados iquais, portanto o Triângulo é ISÓSCELES");
+}
+
+else
+{
+    Console.WriteLine("Todos os lados são diferentes, portanto o Triângulo é ESCALENO");
+}
 }
 
  void Exercicio4()
 {
     Console.WriteLine("Realizando o exercício 4...");
-       Console.Write("Digite a senha: ");
-        int senha = int.Parse(Console.ReadLine());
+      int senha;
 
-        if (senha == 134)
-            Console.WriteLine("Acesso permitido");
-        else
-            Console.WriteLine("Acesso negado");
+Console.WriteLine("Digite a senha");
+senha = int.Parse(Console.ReadLine());
+
+if (senha == 1234)
+{
+    Console.WriteLine("ACESSO PERMITIDO");
+}
+
+else
+{
+    Console.WriteLine("ACESSO NEGADO");
+}
 }
 
  void Exercicio5()
 {
     Console.WriteLine("Realizando o exercício 5...");
-    Console.Write("Digite o número de maçãs compradas: ");
-        int quantidade = int.Parse(Console.ReadLine());
+    int macas;
+double preco, total;
 
-        double preco;
+        Console.WriteLine("Digite o número de maçãs compradas:");
+        macas = int.Parse(Console.ReadLine());
 
-        if (quantidade >= 12)
-        {
-            preco = 0.25;
-        }
-        else
+        if (macas < 12)
         {
             preco = 0.30;
         }
-        
-        double total = quantidade * preco;
+        else
+        {
+            preco = 0.25;
+        }
 
-    
-        Console.WriteLine($"O valor total da compra é: R$ {total:F2}");
+        total = macas * preco;
+
+        Console.WriteLine($"O valor total da compra é: R$ {total}");
 }
 
  void Exercicio6()
 {
     Console.WriteLine("Realizando o exercício 6...");
-            Console.Write("Digite a média do aluno: ");
-        double media = double.Parse(Console.ReadLine());
+            double media, frequencia;
 
-        Console.Write("Digite a frequência do aluno em %: ");
-        double frequencia = double.Parse(Console.ReadLine());
 
-        // Estruturas de decisão
-        if (frequencia < 75)
-        {
-            Console.WriteLine("Aluno reprovado por FREQUENCIA");
-        }
-        else if (media >= 7.0)
-        {
-            Console.WriteLine("Aluno APROVADO");
-        }
-        else if (media >= 3.0)
-        {
-            Console.WriteLine("Aluno em RECUPERAÇÃO.");
-        }
-        else
-        {
-            Console.WriteLine("Aluno reprovado por MEDIA.");
-        }
+Console.WriteLine("Digite a Média do Aluno");
+media = double.Parse(Console.ReadLine());
+
+
+Console.WriteLine("Digite a frequência do Aluno");
+frequencia = double.Parse(Console.ReadLine());
+
+
+if(frequencia < 75)
+{
+    Console.WriteLine("Reprovado por falta");
+}
+
+else
+{
+        Console.WriteLine("Aprovado por presença");
+}
+
+
+if (media > 7)
+{
+    Console.WriteLine("APROVADO, nota alta");
+}
+
+else if (media >= 3)
+{
+    Console.WriteLine("RECUPERAÇÃO");
+}
+
+else
+{
+    Console.WriteLine("REPROVADO, nota baixa");
+}
 }
 
 void Sair()
