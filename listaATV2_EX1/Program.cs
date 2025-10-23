@@ -7,6 +7,10 @@ não ultrapasse o valor do salário e “Orçamento estourado” se o valor gast
 
 double salario, gasto;
 
+
+
+
+
 Console.WriteLine("Digite seu salário");
 salario = double.Parse(Console.ReadLine());
 
