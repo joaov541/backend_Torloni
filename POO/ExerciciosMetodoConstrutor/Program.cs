@@ -74,11 +74,31 @@ using ExerciciosMetodoConstrutor;
 
 //EXERCICIO CLASSE MEDIA ALUNO
 
-MediaAluno a1 = new MediaAluno(6, 7, 2);
+// MediaAluno a1 = new MediaAluno(6, 7, 2);
 
-a1.Nome = "Lucas";
-a1.Media();
+// a1.Nome = "Lucas";
+// a1.Media();
 
-MediaAluno a2 = new MediaAluno();
-a2.Nome = "Samuel";
-a2.Media();
+// MediaAluno a2 = new MediaAluno();
+// a2.Nome = "Samuel";
+// a2.Media();
+
+//-----------------------------------------------------------------------------
+
+//Atividade  em Grupo
+
+// Programa principal
+
+    
+        Aluno aluno = new Aluno();
+        aluno.Nome = "Marcos";
+        aluno.Idade = 17;
+        aluno.Curso = "Desenvolvimento de Sistemas";
+
+        aluno.Falar();   // Método herdado da classe Pessoa
+        aluno.Estudar(); // Método da própria classe Aluno
+    
+        Console.WriteLine($"Nome: {aluno.Nome}, Idade: {aluno.Idade}, Curso: {aluno.Curso}");
+
+
+Aluno edu = new Aluno();
