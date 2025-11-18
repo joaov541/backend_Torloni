@@ -1,0 +1,15 @@
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\bin\Debug\net9.0\Exe3rcicio01.exe
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\bin\Debug\net9.0\Exe3rcicio01.deps.json
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\bin\Debug\net9.0\Exe3rcicio01.runtimeconfig.json
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\bin\Debug\net9.0\Exe3rcicio01.dll
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\bin\Debug\net9.0\Exe3rcicio01.pdb
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\Exe3rcicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\Exe3rcicio01.AssemblyInfoInputs.cache
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\Exe3rcicio01.AssemblyInfo.cs
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\Exe3rcicio01.csproj.CoreCompileInputs.cache
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\Exe3rcicio01.sourcelink.json
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\Exe3rcicio01.dll
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\refint\Exe3rcicio01.dll
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\Exe3rcicio01.pdb
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\Exe3rcicio01.genruntimeconfig.cache
+C:\Users\54198904880\Desktop\BackEnd_T\POO\Pilares\Interface\ExerciciosInterface\Exe3rcicio01\obj\Debug\net9.0\ref\Exe3rcicio01.dll
