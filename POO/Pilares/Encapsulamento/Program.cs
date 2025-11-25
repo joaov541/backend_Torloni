@@ -63,8 +63,8 @@ MyCar.DefinirMarca("Honda");
 MyCar.DefinirModelo("Civic G10");
 
 MyCar.Acelerar(90);
-MyCar.Frear(30);
+MyCar.Frear(20);
 
-System.Console.WriteLine("Marca: "+ MyCar.ObterMarca());
-System.Console.WriteLine("Modelo: "+ MyCar.ObterModelo());
-System.Console.WriteLine("Velocidade atual: "+ MyCar.ObterVelocidade());
+System.Console.WriteLine($"Marca:  {MyCar.ObterMarca()}");
+System.Console.WriteLine($"Modelo:  {MyCar.ObterModelo()}");
+System.Console.WriteLine($"Velocidade atual:  {MyCar.ObterVelocidade()}");

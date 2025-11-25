@@ -39,7 +39,9 @@ namespace Encapsulamento
             if (valor > 0)
             {
                 VelocidadeAtual += valor;
+                
             }
+
         }
 
         public void Frear(int valor)
@@ -54,6 +56,8 @@ namespace Encapsulamento
                 {
                     VelocidadeAtual = 0;
                 }
+
+
         }
     }
 }
