@@ -48,11 +48,12 @@ namespace Encapsulamento
             {
                 VelocidadeAtual -= valor;
 
-                if (VelocidadeAtual < 0)
+            }
+
+              if (VelocidadeAtual < 0)
                 {
                     VelocidadeAtual = 0;
                 }
-            }
         }
     }
 }
